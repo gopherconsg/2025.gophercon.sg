@@ -1,0 +1,4 @@
+# Redirect domain aliases to primary domain on Cloudflare Pages
+# See https://developers.cloudflare.com/pages/platform/redirects/
+
+/qna https://app.sli.do/event/o5DnrndkgPXNnum6d7WFdN 302

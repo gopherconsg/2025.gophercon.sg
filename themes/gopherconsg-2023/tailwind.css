@@ -31,6 +31,14 @@ h3 {
   line-height: 2rem;
 }
 
+h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 a {
   text-decoration: underline;
 }
@@ -261,4 +269,10 @@ p {
     url("/img/partners-wave.png") repeat-x center top,
     url("/img/partners-bg.png") no-repeat center 100px,
     var(--gradient) no-repeat center 70px / 100% 22rem;
+}
+
+.workshops {
+  ul {
+    list-style: disc;
+  }  
 }

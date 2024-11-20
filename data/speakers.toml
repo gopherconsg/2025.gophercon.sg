@@ -1,0 +1,15 @@
+[[speakers]]
+id = "johnny-boursiquot"
+name = "Johnny Boursiquot"
+company = "Skilltype"
+image = "johnny-boursiquot.webp"
+description = "Johnny is a multi-disciplined software engineer with a love for teaching and community-building. He stays busy as a trainer and speaker within the Go community where he also serves as a podcast host on Go Time, a user group organizer for Baltimore Go, and a conference programming chair for GopherCon. Johnny’s works appear on a number of publishing platforms, including O'Reilly, LinkedIn Learning, and Packt."
+
+[[speakers]]
+id = "ron-evans"
+name = "Ron Evans"
+company = "The Hybrid Group"
+image = "ron-evans.webp"
+description = """Ron is an award-winning software developer and expert in robotics/IoT/computer vision who is very active in the free and open-source community. He has helped many clients such as AT&T, Intel, Sphero, and Northvolt solve some of their most difficult technical and business problems.
+
+Ron is a code contributor to many open-source hardware/software projects and is one of the maintainers of TinyGo (https://tinygo.org), as well as the creator of the open-source IoT/robotics framework Gobot (https://gobot.io), computer vision framework GoCV (https://gocv.io), and embedded WebAssembly framework Mechanoid (https://mechanoid.io)."""

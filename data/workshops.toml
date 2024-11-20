@@ -1,0 +1,57 @@
+[[workshops]]
+id = "go-for-experienced-programmers"
+title = "Go for Experienced Programmers"
+speaker = "Johnny Boursiquot"
+speakerLink = "/speakers#johnny-boursiquot"
+description = """
+You're an experienced programmer looking to get up and running quickly with Go. You want the knowledge, tools, and techniques to write idiomatic, professional-grade Go using fun exercises that get you comfortable with the language and its ecosystem. This is the workshop you're looking for.
+
+This immersive and hands-on workshop equips you with the essential knowledge and practical experience to become a proficient Go developer. Throughout this intensive training, you'll discover the core principles and advanced techniques that make Go a standout language for building robust and high-performance applications.
+
+#### What a student is expected to learn
+
+* Comprehensive Introduction: Gain a solid understanding of Go's syntax, data types, control flow, and package management system.
+* Go Tools: Get to know the tool chain for building, testing, benchmarking, and profiling your programs.
+* Effective Error Handling: Discover Go's approach to error handling and techniques for creating robust, failure-resistant code.
+* Testing: Use the standard library package and other community favorites along with advanced techniques for testing.
+* Benchmarking: Take advantage of built-in performance optimization tools.
+* Generics: Understand how to leverage parametric polymorphism to remove boilerplate from your code.
+* HTTP Servers and Clients: Learn how to write resilient servers and clients along with techniques such as throttling and backoff.
+* Concurrency: Learn how to use goroutines, channels, and how thread synchronization works. Leverage techniques such as worker pools, semaphores, and pipelines to take full advantage of Go concurrency.
+* Dependency Management: Go beyond the standard library to work with third-party packages securely. You'll publish your own packages, learn to isolate your CI build from repository outages, and more.
+* OpenTelemetry: Build observable Go applications by instrumenting them to emit traces and metrics.
+
+#### Some of what you'll work on during the workshop
+
+* Build command line tooling
+* Build a REST API with a Database
+* Write a Highly-Concurrent Port Scanner
+* Write a Load Balancer
+* Build a URL Shortener and deploy with AWS Lambda and DynamoDB
+* Work with Large Language Models (LLMs) in your projects
+
+#### Prerequisites
+
+* Complete the [Go Tour](https://go.dev/tour/welcome/1)
+* Browse through [Go by Example](https://gobyexample.com/)
+* Introduce yourself to [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) (optional but recommended)
+* Introduce yourself to LLMs concepts
+
+#### Preparation
+
+* Have a [GitHub](https://github.com/) account
+* Have an [OpenAI](https://platform.openai.com/playground) account
+* Have an AWS account and the [awscli](https://aws.amazon.com/cli/) configured locally (the services we use will fit comfortably with the free tier AWS provides)
+* Install [Docker](https://docs.docker.com/get-docker/)
+* Have a functioning [Go environment](https://golang.org/dl/) installed with Go 1.22 or later
+* Use an editor/IDE with Go plugin installed
+"""
+
+date = "23 January 2025"
+time = "8:30am to 5:00pm"
+
+venue = """
+Venue to be confirmed.
+"""
+
+additional = "Lunch and tea breaks will be provided."

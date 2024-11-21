@@ -11,7 +11,7 @@ theme = "gopherconsg-2023"
 
 [params.ticket]
   buttonText = "Get Your Ticket Now"
-  link = "#tickets"
+  link = "/#tickets"
 
 [markup]
   [markup.goldmark]

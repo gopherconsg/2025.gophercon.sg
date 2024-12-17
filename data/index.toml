@@ -1,7 +1,12 @@
 [tickets]
 headline = "Tickets"
 policy = """
+### Scholarships
+
+We are happy to offer diversity scholarships to support members of underrepresented groups who may not otherwise have the opportunity to attend the conference. Please apply using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdr7K62ojg90E4vEtp72-bduBJCwm7h48qfPzZnDjhIGBLamQ/viewform). Applications close on Monday, 30 December 2024 (end-of-day Singapore time).
+
 ### Refund policy
+
 We offer refunds for all requests made before Monday, 6 January 2025 (end-of-day Singapore time). There will be a 10% fee for all refunds to cover ticketing and payment processing costs.
 """
 

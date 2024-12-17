@@ -1,4 +1,27 @@
 [[workshops]]
+id = "hardware-hacking-with-tinygo"
+title = "Hardware Hacking with TinyGo"
+speaker = "Ron Evans"
+speakerLink = "/speakers#ron-evans"
+description = """
+Get ready for an electrifying experience at GopherCon with the Hybrid Group's epic robot-fest session, powered by Go. Dive into drone control via joystick, reunite with our trusty pal GopherBot, and immerse yourself in more IoT wonders than you can handle! 
+
+We are bringing a special collection of our favorite programmable robots and toys for you to play with and code, including some retro favorites and a few new friends.
+
+If music is your jam, don't miss the TinyGo Jam session! Rock out with TinyGo-powered MIDI controllers and enjoy a variety of self-guided musical activities to keep your earbuds delighted. 
+"""
+
+date = "22 January 2025"
+time = "9:00am to 5:00pm"
+
+venue = """
+Venue to be confirmed.
+"""
+
+additional = ""
+
+
+[[workshops]]
 id = "go-for-experienced-programmers"
 title = "Go for Experienced Programmers"
 speaker = "Johnny Boursiquot"

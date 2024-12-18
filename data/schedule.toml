@@ -35,7 +35,7 @@ speaker = "Ben Boyter"
 speakerLink = "/speakers#ben-boyter"
 
 [[schedule]]
-id = "charles-korn-jon-kartago-lamida"
+id = "korn-lamida"
 title = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
 description = """We’ve been building a brand-new, Prometheus-compatible query engine from the ground up for Grafana Mimir in Go.
 

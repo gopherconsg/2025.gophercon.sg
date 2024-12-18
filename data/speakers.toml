@@ -4,6 +4,8 @@ name = "Dave Cheney"
 company = "GitHub"
 image = "dave-cheney.jpg"
 description = "David is an open source contributor and project member for the Go programming language. David is a well-respected voice within the tech community, speaking on a variety of topics such as software design, performance, and the Go programming language."
+topicTitle = "Starting and stopping things"
+topicLink = "/schedule#dave-cheney"
 
 [[speakers]]
 id = "johnny-boursiquot"
@@ -11,6 +13,8 @@ name = "Johnny Boursiquot"
 company = "Skilltype"
 image = "johnny-boursiquot.webp"
 description = "Johnny is a multi-disciplined software engineer with a love for teaching and community-building. He stays busy as a trainer and speaker within the Go community where he also serves as a podcast host on Go Time, a user group organizer for Baltimore Go, and a conference programming chair for GopherCon. Johnny’s works appear on a number of publishing platforms, including O'Reilly, LinkedIn Learning, and Packt."
+topicTitle = "Go for Experienced Programmers"
+topicLink = "/workshop#go-for-experienced-programmers"
 
 [[speakers]]
 id = "ron-evans"
@@ -20,6 +24,8 @@ image = "ron-evans.webp"
 description = """Ron is an award-winning software developer and expert in robotics/IoT/computer vision who is very active in the free and open-source community. He has helped many clients such as AT&T, Intel, Sphero, and Northvolt solve some of their most difficult technical and business problems.
 
 Ron is a code contributor to many open-source hardware/software projects and is one of the maintainers of TinyGo (https://tinygo.org), as well as the creator of the open-source IoT/robotics framework Gobot (https://gobot.io), computer vision framework GoCV (https://gocv.io), and embedded WebAssembly framework Mechanoid (https://mechanoid.io)."""
+topicTitle = "Hardware Hacking with TinyGo"
+topicLink = "/workshop#hardware-hacking-with-tinygo"
 
 [[speakers]]
 id = "adrian-cole"
@@ -27,6 +33,9 @@ name = "Adrian Cole"
 company = "Elastic"
 image = "adrian-cole.jpg"
 description = "Adrian is a software engineer working at Elastic. He’s been a routine contributor to open source for over fifteen years. Lately, he spends most of his time on OpenTelemetry. His past notable project work includes wazero, Zipkin, OpenFeign, and Apache jclouds."
+topicTitle = "Practical GenAI with Go"
+topicLink = "/schedule#adrian-cole"
+
 
 [[speakers]]
 id = "axel-wagner"
@@ -35,6 +44,8 @@ image = "axel-wagner.jpg"
 description = """Axel is a Senior Software Engineer. Previously he has been a Site Reliability Engineer, after getting an M.Sc. in Mathematics from University of Heidelberg.
 
 Since 2013, Go has been his primary programming language and he is an active member of the community, both online and offline. He is passionate about Open Source, an avid chess player and is trying to read every Science Fiction and Fantasy book ever written."""
+topicTitle = "Why we can't have nice things: Generic methods"
+topicLink = "/schedule#axel-wagner"
 
 [[speakers]]
 id = "ben-boyter"
@@ -42,6 +53,8 @@ name = "Ben Boyter"
 company = "Kablamo"
 image = "ben-boyter.jpg"
 description = "Ben is a technical lead for Kablamo but at heart a codemonkey. He writes about various topics on his blog https://boyter.org/ which occasionally makes the front of the orange site, as well as runs searchcode.com as a side gig for fun. He likes writing code, walking on beaches and getting caught in the rain. He hates eating raw tomato unless you prepare it somehow, and slices on a hamburger does not count as preparation."
+topicTitle = "🚀 The Power of Bloom Filters: Building a Cutting-Edge Go Search Engine to Explore the World's Source Code"
+topicLink = "/schedule#ben-boyter"
 
 [[speakers]]
 id = "charles-korn"
@@ -51,6 +64,8 @@ image = "charles-korn.jpg"
 description = """Charles is a senior engineer on the Mimir team at Grafana Labs. He has worked with teams all around the globe and have a particular interest in developer experience, distributed systems and cloud-native infrastructure.
 
 When he is not at work, you’ll find him travelling, taking photos, eating chocolate and playing with Lego. (Usually not all at once.)"""
+topicTitle = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
+topicLink = "/schedule#korn-lamida"
 
 [[speakers]]
 id = "chewxy"
@@ -72,6 +87,8 @@ name = "Jon Kartago Lamida"
 company = "Grafana"
 image = "jon-kartago-lamida.jpg"
 description = "Jon is a software engineer, traveler, infosec student, books hoarder, perpetually blocked writer, lifelong learner, video games player."
+topicTitle = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
+topicLink = "/schedule#korn-lamida"
 
 [[speakers]]
 id = "manuel-de-la-pena"
@@ -83,3 +100,5 @@ description = """Manuel is an OSS Software Engineer at Docker where he maintains
 He has also founded and managed a couple of small web development and systems consulting companies. Additionally, he organises the Google Developers Group in Toledo, Spain (GDG Toledo), where they run monthly discussions about software in its various aspects, serving as a small community outside the bustling Madrid. Manuel has delivered talks at different national and international events too.
 
 Manuel holds a BS in Computer Science (UNED Spain), and a master degree in Research in Software Engineering and Information Systems (UNED Spain). You can find him on Internet as “mdelapenya” everywhere."""
+topicTitle = "Testing GenAI applications in Go"
+topicLink = "/schedule#manuel-de-la-pena"

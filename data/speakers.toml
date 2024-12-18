@@ -8,24 +8,11 @@ topicTitle = "Starting and stopping things"
 topicLink = "/schedule#dave-cheney"
 
 [[speakers]]
-id = "johnny-boursiquot"
-name = "Johnny Boursiquot"
-company = "Skilltype"
-image = "johnny-boursiquot.webp"
-description = "Johnny is a multi-disciplined software engineer with a love for teaching and community-building. He stays busy as a trainer and speaker within the Go community where he also serves as a podcast host on Go Time, a user group organizer for Baltimore Go, and a conference programming chair for GopherCon. Johnny’s works appear on a number of publishing platforms, including O'Reilly, LinkedIn Learning, and Packt."
-topicTitle = "Go for Experienced Programmers"
-topicLink = "/workshop#go-for-experienced-programmers"
-
-[[speakers]]
-id = "ron-evans"
-name = "Ron Evans"
-company = "The Hybrid Group"
-image = "ron-evans.webp"
-description = """Ron is an award-winning software developer and expert in robotics/IoT/computer vision who is very active in the free and open-source community. He has helped many clients such as AT&T, Intel, Sphero, and Northvolt solve some of their most difficult technical and business problems.
-
-Ron is a code contributor to many open-source hardware/software projects and is one of the maintainers of TinyGo (https://tinygo.org), as well as the creator of the open-source IoT/robotics framework Gobot (https://gobot.io), computer vision framework GoCV (https://gocv.io), and embedded WebAssembly framework Mechanoid (https://mechanoid.io)."""
-topicTitle = "Hardware Hacking with TinyGo"
-topicLink = "/workshop#hardware-hacking-with-tinygo"
+id = "sau-sheong"
+name = "Chang Sau Sheong"
+company = "GovTech Singapore"
+image = "sau-sheong.jpg"
+description = "Sau Sheong is the Deputy Chief Executive of Product & Engineering at GovTech Singapore. Previously, he worked with SP Group, running a business unit as the CEO, as well as IT, OT and digital transformation for Singapore's main utility company. In his 28 years of experience, he has led product engineering initiatives at PayPal, Yahoo, and HP, founded a software company and headed technology teams in various startups. He is active in Singapore’s tech community and has written five programming books, the last 2 books on Go."
 
 [[speakers]]
 id = "adrian-cole"
@@ -35,7 +22,6 @@ image = "adrian-cole.jpg"
 description = "Adrian is a software engineer working at Elastic. He’s been a routine contributor to open source for over fifteen years. Lately, he spends most of his time on OpenTelemetry. His past notable project work includes wazero, Zipkin, OpenFeign, and Apache jclouds."
 topicTitle = "Practical GenAI with Go"
 topicLink = "/schedule#adrian-cole"
-
 
 [[speakers]]
 id = "axel-wagner"
@@ -102,3 +88,23 @@ He has also founded and managed a couple of small web development and systems co
 Manuel holds a BS in Computer Science (UNED Spain), and a master degree in Research in Software Engineering and Information Systems (UNED Spain). You can find him on Internet as “mdelapenya” everywhere."""
 topicTitle = "Testing GenAI applications in Go"
 topicLink = "/schedule#manuel-de-la-pena"
+
+[[speakers]]
+id = "johnny-boursiquot"
+name = "Johnny Boursiquot"
+company = "Skilltype"
+image = "johnny-boursiquot.webp"
+description = "Johnny is a multi-disciplined software engineer with a love for teaching and community-building. He stays busy as a trainer and speaker within the Go community where he also serves as a podcast host on Go Time, a user group organizer for Baltimore Go, and a conference programming chair for GopherCon. Johnny’s works appear on a number of publishing platforms, including O'Reilly, LinkedIn Learning, and Packt."
+topicTitle = "Go for Experienced Programmers"
+topicLink = "/workshop#go-for-experienced-programmers"
+
+[[speakers]]
+id = "ron-evans"
+name = "Ron Evans"
+company = "The Hybrid Group"
+image = "ron-evans.webp"
+description = """Ron is an award-winning software developer and expert in robotics/IoT/computer vision who is very active in the free and open-source community. He has helped many clients such as AT&T, Intel, Sphero, and Northvolt solve some of their most difficult technical and business problems.
+
+Ron is a code contributor to many open-source hardware/software projects and is one of the maintainers of TinyGo (https://tinygo.org), as well as the creator of the open-source IoT/robotics framework Gobot (https://gobot.io), computer vision framework GoCV (https://gocv.io), and embedded WebAssembly framework Mechanoid (https://mechanoid.io)."""
+topicTitle = "Hardware Hacking with TinyGo"
+topicLink = "/workshop#hardware-hacking-with-tinygo"

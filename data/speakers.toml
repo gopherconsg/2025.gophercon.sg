@@ -43,6 +43,15 @@ topicTitle = "🚀 The Power of Bloom Filters: Building a Cutting-Edge Go Search
 topicLink = "/schedule#ben-boyter"
 
 [[speakers]]
+id = "bjorn-andersson"
+name = "Björn Andersson"
+company = "foodpanda"
+image = "bjorn-andersson.jpg"
+description = "Björn is a Principal Engineer at foodpanda where he spends his time looking at how to make the production experience better while helping as many engineers as he can grow in their role. He explores this using continuous delivery, testing, observability, and incident management. In his 18 years, 13 of which were spent in Singapore, he has worked in several startups as a consultant, and has experienced retail, banking, goverment ministries, space, and most recently fintech and food delivery at foodpanda."
+topicTitle = "Mocking your codebase without cursing it"
+topicLink = "/schedule#bjorn-andersson"
+
+[[speakers]]
 id = "charles-korn"
 name = "Charles Korn"
 company = "Grafana"

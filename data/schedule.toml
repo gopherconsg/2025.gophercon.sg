@@ -35,6 +35,17 @@ speaker = "Ben Boyter"
 speakerLink = "/speakers#ben-boyter"
 
 [[schedule]]
+id = "bjorn-andersson"
+title = "Mocking your codebase without cursing it"
+description = """Working with mocks is a lot like working out: if you don't know what you're doing then you'll either a) don't get the results you want or b) hurt yourself. And in the worst case, you'll get both and be unhappy with the results and swear off mocking as a useless practice.
+
+This talk will show some common pitfalls of using mocks (updating a lot of mocks to return the new correct value, mocking out the same complex thing again and again, elaborate setups to exercise a piece of business logic, and more) and how you can constrain how you work with mocks to make them work for you and make your test suite something you'll love to maintain.
+
+No matter where you are on the spectrum of "mock everything to don't mock at all," you'll get more confidence in your test suite, make it simpler to maintain, and very likely faster to run by being intentional in how you design your test suite and work with mocks."""
+speaker = "Björn Andersson"
+speakerLink = "/speakers#bjorn-andersson"
+
+[[schedule]]
 id = "korn-lamida"
 title = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
 description = """We’ve been building a brand-new, Prometheus-compatible query engine from the ground up for Grafana Mimir in Go.

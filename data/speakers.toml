@@ -75,6 +75,8 @@ name = "Elisa Xu"
 company = "SafetyCulture"
 image = "elisa-xu.jpg"
 description = "Elisa is a professional guinea pig to a toddler whose lab specialises in testing patience and boundaries. Her foray into Go began last year where she taught herself the language to land her first job as a software engineer in SafetyCulture. She has since fallen in love with the collaborative and communicative nature of building good software, and enjoys challenging the way things are done. Prior to her career switch, she was the Head of People at an Airtree company."
+topicTitle = "(Wrong) Comparison is the Thief of Joy"
+topicLink = "/schedule#elisa-xu"
 
 [[speakers]]
 id = "jon-kartago-lamida"

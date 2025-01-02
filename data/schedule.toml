@@ -46,6 +46,13 @@ speaker = "Björn Andersson"
 speakerLink = "/speakers#bjorn-andersson"
 
 [[schedule]]
+id = "elisa-xu"
+title = "(Wrong) Comparison is the Thief of Joy"
+description = """You've heard the old adage - comparison is the thief of joy. Indeed it is. But more specifically, wrong comparison is the thief of joy. We compare for a living. We test to see if our expectations match our realities and write hundred of lines of code to compare what we want vs what we got. Yet do we actually know what we are comparing, and what obscure test failures threaten to steal our joy?"""
+speaker = "Elisa Xu"
+speakerLink = "/speakers#elisa-xu"
+
+[[schedule]]
 id = "korn-lamida"
 title = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
 description = """We’ve been building a brand-new, Prometheus-compatible query engine from the ground up for Grafana Mimir in Go.

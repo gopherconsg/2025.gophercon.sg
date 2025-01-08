@@ -101,6 +101,15 @@ topicTitle = "Testing GenAI applications in Go"
 topicLink = "/schedule#manuel-de-la-pena"
 
 [[speakers]]
+id = "swami"
+name = "Swaminathan Venkatraman"
+company = "Grab"
+image = "swami.webp"
+description = """Swami is an Engineering Manager who manages the Software Development Lifecyle part of Developer Experience at Grab. He has ~10 years of total industry experience, with 6 years of working with Go at Grab. He is generally an inquisitive person, with a lot of opinions and is always up for tech debates. Outside of work, Swami has tried his hand at a variety of things like photography, music, building keyboards and graphic designing to name a few."""
+topicTitle = "Scaling Go Monorepo Workflows with Athens"
+topicLink = "/schedule#swami"
+
+[[speakers]]
 id = "johnny-boursiquot"
 name = "Johnny Boursiquot"
 company = "Skilltype"

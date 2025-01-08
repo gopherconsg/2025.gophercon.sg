@@ -76,3 +76,11 @@ In this session we’ll leverage langchaingo to interact with LLMs, and Testcont
 speaker = "Manuel de la Peña"
 speakerLink = "/speakers#manuel-de-la-pena"
 
+[[schedule]]
+id = "swami"
+title = "Scaling Go Monorepo Workflows with Athens"
+description = """At Grab, our Go monorepo powers over 600 microservices and centralises shared libraries, but frequently used commands like go list and go get created significant bottlenecks. These commands overwhelmed our GitLab servers, leading to frustrated developers, disrupted CI pipelines, and constant fire-fighting by the GitLab team. To address this, we implemented Athens, a private Go module proxy, combined with GOVCS environment variable configurations and fallback network mode. This approach offloaded dependency-fetching requests from GitLab, drastically reduced server load, and improved dependency-fetching speeds for developers.
+
+In this talk, we’ll explain how using a private Go module proxy enhances security, ensures module availability (think “left-pad” incident), and avoids the downsides of vendoring. Attendees will gain insights into setting up private proxies, using Athens in secure or offline environments, and scaling dependency management in large monorepos. Learn how we improved productivity and reliability at Grab, and discover how your organisation can do the same."""
+speaker = "Swaminathan Venkatraman"
+speakerLink = "/speakers#swami"

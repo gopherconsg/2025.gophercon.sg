@@ -97,6 +97,30 @@
             {{ end }}
           </div>
         </div>
+
+        <div class="items-center text-center border-b md:flex py-14 border-b-gray-500">
+          <strong class="block mb-8 text-xl md:text-base md:mr-8 md:mb-0 md:basis-1/12 md:text-left">Gold</strong>
+          <div class="flex flex-wrap items-center justify-center flex-1 gap-2 md:gap-8">
+            {{ with $.Site.Data.index.sponsors.gold}}
+              {{ range . }}
+                {{ $image := resources.Get (printf "images/sponsors/%s" .logo) }}
+                <img src="{{ $image.RelPermalink }}" alt="{{ .name }}" width="170" />
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="items-center text-center border-b md:flex py-14 border-b-gray-500">
+          <strong class="block mb-8 text-xl md:text-base md:mr-8 md:mb-0 md:basis-1/12 md:text-left">Workshop Venue</strong>
+          <div class="flex flex-wrap items-center justify-center flex-1 gap-2 md:gap-8">
+            {{ with $.Site.Data.index.sponsors.workshop}}
+              {{ range . }}
+                {{ $image := resources.Get (printf "images/sponsors/%s" .logo) }}
+                <img src="{{ $image.RelPermalink }}" alt="{{ .name }}" width="170" />
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
       </div>
     </div>
     

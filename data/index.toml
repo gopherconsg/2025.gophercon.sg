@@ -23,6 +23,18 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 name = "Go"
 logo = "go.png"
 
+[[sponsors.platinum]]
+name = "Grab"
+logo = "grab.png"
+
 [[sponsors.diversity]]
 name = "GoBridge"
 logo = "gobridge.png"
+
+[[sponsors.gold]]
+name = "GovTech"
+logo = "stack.png"
+
+[[sponsors.workshop]]
+name = "IMDA PIXEL"
+logo = "imda-pixel.png"

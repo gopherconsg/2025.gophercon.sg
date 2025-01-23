@@ -36,15 +36,6 @@ topicTitle = "Why we can't have nice things: Generic methods"
 topicLink = "/schedule#axel-wagner"
 
 [[speakers]]
-id = "ben-boyter"
-name = "Ben Boyter"
-company = "Kablamo"
-image = "ben-boyter.jpg"
-description = "Ben is a technical lead for Kablamo but at heart a codemonkey. He writes about various topics on his blog https://boyter.org/ which occasionally makes the front of the orange site, as well as runs searchcode.com as a side gig for fun. He likes writing code, walking on beaches and getting caught in the rain. He hates eating raw tomato unless you prepare it somehow, and slices on a hamburger does not count as preparation."
-topicTitle = "🚀 The Power of Bloom Filters: Building a Cutting-Edge Go Search Engine to Explore the World's Source Code"
-topicLink = "/schedule#ben-boyter"
-
-[[speakers]]
 id = "bjorn-andersson"
 name = "Björn Andersson"
 company = "foodpanda"

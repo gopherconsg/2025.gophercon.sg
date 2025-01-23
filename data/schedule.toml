@@ -17,7 +17,7 @@ title = "AI Programming with Go"
 description = """A short introduction to programming AI using Go. Learn about using Go packages, LLM frameworks, open LLMs using Ollama, RAG and also vision LLMs."""
 speaker = "Chang Sau Sheong"
 speakerLink = "/speakers#sau-sheong"
-time = "9:15 AM"
+time = "9:10 AM"
 
 [[schedule]]
 id = "dave-cheney"
@@ -35,19 +35,7 @@ time = "9:40 AM"
 id = "am-tea-break"
 title = "Tea Break"
 speaker = "GopherCon Singapore Team"
-time = "10:15 AM"
-
-[[schedule]]
-id = "korn-lamida"
-title = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
-description = """We’ve been building a brand-new, Prometheus-compatible query engine from the ground up for Grafana Mimir in Go.
-
-Our new query engine has been designed to deliver an improved user experience and vastly improved performance: our benchmarks show queries running up to 80% faster and with 70% lower peak memory consumption than Prometheus’ default engine, and our real-world testing shows similar results.
-
-As we’ve been building the engine, we’ve learnt a number of Go performance lessons the hard way, including why using byte slices can sometimes be preferable to strings, the benefits and costs of memory pooling and the surprisingly large impact of function pointers. And we’ve seen the complexity (and bugs!) these things can introduce too, and developed a number of techniques to help combat this."""
-speaker = "Charles Korn and Jon Kartago Lamida"
-speakerLink = "/speakers#charles-korn"
-time = "10:45 AM"
+time = "10:20 AM"
 
 [[schedule]]
 id = "elisa-xu"
@@ -55,7 +43,7 @@ title = "(Wrong) Comparison is the Thief of Joy"
 description = """You've heard the old adage - comparison is the thief of joy. Indeed it is. But more specifically, wrong comparison is the thief of joy. We compare for a living. We test to see if our expectations match our realities and write hundred of lines of code to compare what we want vs what we got. Yet do we actually know what we are comparing, and what obscure test failures threaten to steal our joy?"""
 speaker = "Elisa Xu"
 speakerLink = "/speakers#elisa-xu"
-time = "11:10 AM"
+time = "10:50 AM"
 
 [[schedule]]
 id = "axel-wagner"
@@ -67,7 +55,15 @@ So no one really contests that it would be useful to have this feature. Even the
 I walk through the uses of this feature, the reasons adding generics took so long and how they lead to this omission."""
 speaker = "Axel Wagner"
 speakerLink = "/speakers#axel-wagner"
-time = "11:35 AM"
+time = "11:15 AM"
+
+[[schedule]]
+id = "chewxy"
+title = "F()-ing Cox-Zucker Tunes a MA Screw unto a Kummer Surface"
+description = """Algebraic geometry can be fun in service of world building. This talk will go through the considerations of data structures and algorithms in the pursuit of making movies of exotic mathematical structures that may not necessarily make intuitive sense."""
+speaker = "Chew Xuanyi"
+speakerLink = "/speakers#chewxy"
+time = "11:45 AM"
 
 [[schedule]]
 id = "swami"
@@ -77,13 +73,13 @@ description = """At Grab, our Go monorepo powers over 600 microservices and cent
 In this talk, we’ll explain how using a private Go module proxy enhances security, ensures module availability (think “left-pad” incident), and avoids the downsides of vendoring. Attendees will gain insights into setting up private proxies, using Athens in secure or offline environments, and scaling dependency management in large monorepos. Learn how we improved productivity and reliability at Grab, and discover how your organisation can do the same."""
 speaker = "Swaminathan Venkatraman"
 speakerLink = "/speakers#swami"
-time = "12:00 PM"
+time = "12:15 PM"
 
 [[schedule]]
 id = "lunch"
 title = "Lunch"
 speaker = "GopherCon Singapore Team"
-time = "12:25 PM"
+time = "12:40 PM"
 
 [[schedule]]
 id = "adrian-cole"
@@ -91,7 +87,7 @@ title = "Practical GenAI with Go"
 description = """Learn how to practice Generative AI in Golang, using some popular tools written in Golang. You’ll learn the lingo needed commonly used, like LLM, GenAI, RAG and VectorDB and what they mean. You’ll leave with some ideas on how to start coding, now, with a model hosted on your laptop!"""
 speaker = "Adrian Cole"
 speakerLink = "/speakers#adrian-cole"
-time = "1:25 PM"
+time = "1:40 PM"
 
 [[schedule]]
 id = "manuel-de-la-pena"
@@ -105,21 +101,7 @@ This proposal involves defining detailed validation criteria and using an LLM as
 In this session we’ll leverage langchaingo to interact with LLMs, and Testcontainers Go to provision the runtime dependencies to use RAG."""
 speaker = "Manuel de la Peña"
 speakerLink = "/speakers#manuel-de-la-pena"
-time = "1:50 PM"
-
-[[schedule]]
-id = "ben-boyter"
-title = "🚀 The Power of Bloom Filters: Building a Cutting-Edge Go Search Engine to Explore the World's Source Code"
-description = """Learn how to use the humble bloom filter and Go to search the worlds source code! Discover how http://searchcode.com uses both to provide blazing fast search over 75 billion lines of code across 40 million projects by uniquely combining trigrams and bloom filters, all on a single dedicated machine."""
-speaker = "Ben Boyter"
-speakerLink = "/speakers#ben-boyter"
-time = "2:15 PM"
-
-[[schedule]]
-id = "pm-tea-break"
-title = "Tea Break"
-speaker = "GopherCon Singapore Team"
-time = "2:40 PM"
+time = "2:05 PM"
 
 [[schedule]]
 id = "bjorn-andersson"
@@ -131,15 +113,25 @@ This talk will show some common pitfalls of using mocks (updating a lot of mocks
 No matter where you are on the spectrum of "mock everything to don't mock at all," you'll get more confidence in your test suite, make it simpler to maintain, and very likely faster to run by being intentional in how you design your test suite and work with mocks."""
 speaker = "Björn Andersson"
 speakerLink = "/speakers#bjorn-andersson"
-time = "3:10 PM"
+time = "2:30 PM"
 
 [[schedule]]
-id = "chewxy"
-title = "F()-ing Cox-Zucker Tunes a MA Screw unto a Kummer Surface"
-description = """Algebraic geometry can be fun in service of world building. This talk will go through the considerations of data structures and algorithms in the pursuit of making movies of exotic mathematical structures that may not necessarily make intuitive sense."""
-speaker = "Chew Xuanyi"
-speakerLink = "/speakers#chewxy"
-time = "3:35 PM"
+id = "pm-tea-break"
+title = "Tea Break"
+speaker = "GopherCon Singapore Team"
+time = "2:55 PM"
+
+[[schedule]]
+id = "korn-lamida"
+title = "80% faster, 70% less memory: the Go tricks we've used to build a high-performance, low-cost Prometheus query engine"
+description = """We’ve been building a brand-new, Prometheus-compatible query engine from the ground up for Grafana Mimir in Go.
+
+Our new query engine has been designed to deliver an improved user experience and vastly improved performance: our benchmarks show queries running up to 80% faster and with 70% lower peak memory consumption than Prometheus’ default engine, and our real-world testing shows similar results.
+
+As we’ve been building the engine, we’ve learnt a number of Go performance lessons the hard way, including why using byte slices can sometimes be preferable to strings, the benefits and costs of memory pooling and the surprisingly large impact of function pointers. And we’ve seen the complexity (and bugs!) these things can introduce too, and developed a number of techniques to help combat this."""
+speaker = "Charles Korn and Jon Kartago Lamida"
+speakerLink = "/speakers#charles-korn"
+time = "3:30 PM"
 
 [[schedule]]
 id = "ron-evans"
@@ -149,7 +141,7 @@ description = """In this fast-paced interactive keynote, we will Go from the inc
 By the end you will have shared a true 'out of the box' experience."""
 speaker = "Ron Evans"
 speakerLink = "/speakers#ron-evans"
-time = "4:00 PM"
+time = "3:55 PM"
 
 [[schedule]]
 id = "closing-remarks"
